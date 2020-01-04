@@ -1,4 +1,4 @@
-package com.arikan.flutter_assistant;
+package com.arikan.frodit;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
