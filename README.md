@@ -1,7 +1,7 @@
 # Frodit
 ## flutter_personal_assistant
 
-A new Flutter application.
+https://www.bilalarikan.com/virtual-assistant-frodit/
 
 ## Getting Started
 
