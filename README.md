@@ -4,9 +4,9 @@
 
 https://www.bilalarikan.com/virtual-assistant-frodit/
 
-| SS 1                                | SS 2                                |
-| ----------------------------------- | ----------------------------------- |
-| ![Alt text](/SS/1.jpg?raw=true "1") | ![Alt text](/SS/2.jpg?raw=true "2") |
+| SS 1                                                      | SS 2                                                      |
+| --------------------------------------------------------- | --------------------------------------------------------- |
+| <img width=300>![Alt text](/SS/1.jpg?raw=true "1") </img> | <img width=300>![Alt text](/SS/2.jpg?raw=true "2") </img> |
 
 ## Getting Started
 
